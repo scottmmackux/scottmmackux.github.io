@@ -1,0 +1,25 @@
+{
+  "name": "Aurora",
+  "short_name": "Aurora",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#005173",
+  "icons": [
+    {
+      "src": "favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "apple-touch-icono_New.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ]
+}
